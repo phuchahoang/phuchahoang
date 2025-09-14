@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **phuchahoang/phuchahoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Harry Ha 🧑‍💻
-- 🍪 Hey! This is Harry documenting his journey in the world of technology.
+## Harry Ha 🧑‍💻
+#🍪 Hey! This is Harry documenting his journey in the world of technology.
 
 - 📑I am a programming enthusiast, pursuing Applied Math and Computer Science (AMCS). 
 
