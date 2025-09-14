@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Harry Ha 🧑‍💻
-#🍪 Hey! This is Harry documenting his journey in the world of technology.
+# 🍪 Hey! This is Harry documenting his journey in the world of technology.
 
 - 📑I am a programming enthusiast, pursuing Applied Math and Computer Science (AMCS). 
 
