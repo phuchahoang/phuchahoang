@@ -13,19 +13,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Harry Ha 🧑‍💻
-# 🍪 Hey! This is Harry documenting his journey in the world of technology.
+## harry phuc ha 🧑‍💻
+# 🍪 hey! this is harry documenting his journey in the world of technology.
 
-- 📑I am a programming enthusiast, pursuing Applied Math and Computer Science (AMCS). 
+- 📑i am a programming enthusiast, pursuing Applied Math and Computer Science (AMCS) with a concentration in AI. 
 
-- 🔭I’m currently working with Java, Python, C++
-- 🌱Tools/Platforms: Eclipse, Visual Studio, Azure (beginner)
-- 💬Framework/Principles: JUnit, OOP, GUI
-- 🤔Technologies: CSS (beginner)
+- 🔭i’m currently working with Java, Python, C++
+- 🌱tools/Platforms: Eclipse, Visual Studio, Azure (beginner)
+- 💬framework/Principles: JUnit, OOP, GUI
+- 🤔technologies: CSS (beginner)
 
 
-- 📑I strive to accomplish things devotedly and coordinate well with others in order to convey impactful results and meanings through polished projects. I am also eager to explore, seek flexibility, and adaptation. 
+- 📑i strive to accomplish things devotedly and coordinate well with others in order to convey impactful results and meanings through polished projects. I am also eager to explore, seek flexibility, and adaptation. 
 
-- ✨Fun fact: Currently, I am sharpening my mindset through being a Math Tutor & an IT HelpDesk Technician!
+- ✨fun fact: currently, i am sharpening my mindset through being a Math Tutor & an IT HelpDesk Technician!
 
-- 📫 How to reach me: @hahoangphuc2014@gmail.com
+- 📫 get in touch with me: @hahoangphuc2014@gmail.com
